@@ -1,7 +1,7 @@
 # Hi I'm Kayla 
 
 # this is me!
-<img src="https://github.com/ky280225/Kayla-Ellsworth/blob/c89abe66e332cd74dc7f5c03ea71e68fa1d22297/thumbnail_IMG_9199.jpg"  width="200" />
+<img src="https://github.com/ky280225/Kayla-Ellsworth/blob/c89abe66e332cd74dc7f5c03ea71e68fa1d22297/thumbnail_IMG_9199.jpg"  width="200" /> 
 
 ## I'm in my 5th yr of Neuroscience :brain: 
 
